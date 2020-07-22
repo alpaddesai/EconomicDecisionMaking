@@ -4,4 +4,4 @@ The project provides an introduction to Economic Decision Making
 
 Images are custom by Alpa D. Desai. Confidential information is not displayed.
 
-Please download the executable in 
+Please download the executable in https://github.com/alpaddesai/EconomicDecisionMaking/releases for details.
