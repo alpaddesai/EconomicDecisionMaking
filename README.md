@@ -11,3 +11,5 @@ Reference https://github.com/alpaddesai/TechnicalProjectManagement for details.
 
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
+
+![image](USCopyrightCertificateofRegistration.png)
