@@ -6,10 +6,9 @@ Images are custom by Alpa D. Desai. Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/EconomicDecisionMaking/releases for details.
 
-Reference https://github.com/alpaddesai/NewProductDevelopmentProcesses for details.
-Reference https://github.com/alpaddesai/TechnicalProjectManagement for details.
-
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
 
 ![image](USCopyrightCertificateofRegistration.png)
+
+Reference https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/TechnicalProjectManagement for details.
