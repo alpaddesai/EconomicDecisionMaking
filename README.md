@@ -9,6 +9,4 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
 
-![image](USCopyrightCertificateofRegistration.png)
-
 Reference https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/TechnicalProjectManagement for details.
