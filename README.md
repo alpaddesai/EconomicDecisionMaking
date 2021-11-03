@@ -9,4 +9,4 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
 
-Reference https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/TechnicalProjectManagement for details.
+Reference https://github.com/alpaddesai/CAPM_EngineeringProgramManagement
