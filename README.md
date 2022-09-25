@@ -9,4 +9,6 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Reference https://github.com/alpaddesai/CAPM_ProgramManagement
