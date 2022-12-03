@@ -16,4 +16,4 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 
 ![image](Ethics.jpg)
 
-Reference https://github.com/alpaddesai/CAPM_ProgramManagement
+Reference https://github.com/alpaddesai/ProgramManagement
