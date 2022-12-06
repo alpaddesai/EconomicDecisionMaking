@@ -9,9 +9,6 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 ## Economic Decision Making
 ![image](EconomicDecisionMaking.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
