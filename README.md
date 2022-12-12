@@ -13,4 +13,4 @@ Please download the executable in https://github.com/alpaddesai/EconomicDecision
 
 ![image](Ethics.jpg)
 
-Reference https://github.com/alpaddesai/EngineeringProjectManagement2022
+Reference https://github.com/alpaddesai/EngineeringProjectManagement
